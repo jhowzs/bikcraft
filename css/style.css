@@ -46,6 +46,8 @@ ul {
   color: #ffffff;
   font-size: 18px;
   position: relative;
+  font-family: "Poppins";
+  font-weight: 400;
 }
 
 .header-menu a:after {
@@ -119,6 +121,8 @@ ul {
   margin-bottom: 32px;
   font-size: 64px;
   line-height: 1.125;
+  font-family: "Poppins";
+  font-weight: 600;
 }
 
 .introduction-content h1 span {
@@ -130,6 +134,8 @@ ul {
   font-size: 24px;
   line-height: 1.5;
   color: #b2b2b2;
+  font-family: "Roboto";
+  font-weight: 400;
 }
 
 .introduction a {
@@ -142,7 +148,8 @@ ul {
   text-transform: uppercase;
   font-size: 18px;
   line-height: 1.33;
-  font-weight: bold;
+  font-family: "Poppins";
+  font-weight: 600;
 }
 
 .introduction a:hover {
