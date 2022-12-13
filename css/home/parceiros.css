@@ -38,6 +38,9 @@
   .partners {
     padding-bottom: 60px;
   }
+  .partners li {
+    padding: 20px;
+  }
   .partners h2 {
     margin-bottom: 20px;
   }
