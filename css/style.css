@@ -5,7 +5,7 @@
 @import "./global/header.css";
 @import "./global/footer.css";
 
-/* Utilidades */
+/* Utilities */
 @import "./utilidades/componentes.css";
 @import "./utilidades/formulario.css";
 
@@ -15,25 +15,25 @@
 @import "./home/parceiros.css";
 @import "./home/depoimento.css";
 
-/* Bicicletas */
+/* Bicycles */
 @import "./bicicletas/bicicletas-lista.css";
 @import "./bicicletas/bicicletas.css";
 
-/* Bicicleta */
+/* Bicycle */
 @import "./bicicleta/bicicleta.css";
 @import "./bicicleta/seguro.css";
 
-/* Seguros */
+/* Insurance */
 @import "./seguros/seguros.css";
 @import "./seguros/vantagens.css";
 @import "./seguros/perguntas.css";
 
-/* Contato */
+/* Contact */
 @import "./contato/contato.css";
 @import "./contato/lojas.css";
 
-/* Orçamento */
+/* Budget */
 @import "./orcamento/orcamento.css";
 
-/* termos */
+/* Terms */
 @import "./termos/termos.css";
