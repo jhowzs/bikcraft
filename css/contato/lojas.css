@@ -33,6 +33,20 @@
   grid-column: 1 / -1;
 }
 
+.shop-content h3 {
+  display: flex;
+  align-items: center;
+}
+
+.shop-content h3::before {
+  content: "";
+  display: inline-block;
+  height: 8px;
+  width: 12px;
+  margin-right: 8px;
+  background-color: var(--color-p1);
+}
+
 .shop-info {
   display: grid;
   gap: 8px;
