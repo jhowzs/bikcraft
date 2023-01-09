@@ -10,3 +10,16 @@ function activateLink(link) {
 }
 
 links.forEach(activateLink);
+
+// activate budget items
+const parameters = new URLSearchParams(location.search);
+
+function activateProduct(parameter) {
+  const element = document.getElementById(parameter);
+  if (element) {
+    element.checked = true;
+  }
+  console.log(element);
+}
+
+parameters.forEach(activateProduct);
