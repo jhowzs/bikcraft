@@ -41,3 +41,21 @@ function eventQuestions(question) {
 }
 
 questions.forEach(eventQuestions);
+
+//bike gallery
+const gallery = document.querySelectorAll(".bike-image img");
+const galleryContainer = document.querySelector(".bike-image");
+
+function changeImage(event) {
+  const img = event.currentTarget;
+  const media = matchMedia("(min-width: 1000px)").matches;
+  if (media) {
+    galleryContainer.prepend(img);
+  }
+}
+
+function eventsGallery(img) {
+  img.addEventListener("click", changeImage);
+}
+
+gallery.forEach(eventsGallery);
