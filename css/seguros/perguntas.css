@@ -45,8 +45,17 @@
   transition: 0.3s;
 }
 
-.questions button:hover::after {
+.questions button:hover::after,
+.questions button[aria-expanded="true"]::after {
   transform: rotate(180deg);
+}
+
+.questions dd {
+  display: none;
+}
+
+.questions dd.active {
+  display: block;
 }
 
 .questions dd {
