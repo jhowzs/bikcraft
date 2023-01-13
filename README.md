@@ -16,5 +16,12 @@
 <h1>🎯 SOBRE</h1>
 <p>Esse projeto é um comércio online de bicicletas elétricas, durante o desenvolvimento foi utilizado diversas ferramentas e <strong>tecnicas de design</strong> para aperfeiçoar o resultado final! Desde <strong>Animações</strong>, <strong>Boas práticas</strong>, <strong>Performance</strong> e <strong>SEO</strong>. Projeto completamente desenvolvido por mim, desde a produção até o lançamento.</p>
 <h1>📱 RESPONSIVIDADE</h1>
-<p>O projeto como um todo, foi desenvolvido de forma <strong>Responsiva</strong> se adaptando ao tamanho da tela do usuário, sendo projeto da melhor maneira possível para melhor conforto e vizualização do usuário.
-<h1>🚀 Tecnologias</h1>
+<p>O projeto como um todo, foi desenvolvido de forma <strong>Responsiva</strong> se adaptando ao tamanho da tela do usuário, sendo projeto da melhor maneira possível para melhor conforto e vizualização do usuário.</p></p>
+<h1>🚀 TECNOLOGIAS</h1>
+  <ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">HTML</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CSS</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">JAVASCRIPT</font></font></li>
+</ul>
+<p>Além dessas tenologias forasm ultilizados plugins e npm para automação do site</p><br>
+  <p>Estarei novamente, disponibilizando o link do site. <a href="https://bikcraft-portfolio.vercel.app/">CLIQUE AQUI.</a> </p>
