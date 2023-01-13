@@ -14,4 +14,7 @@
 <h1><a href="https://bikcraft-portfolio.vercel.app/">DEMO</a></h1>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" https://user-images.githubusercontent.com/90876213/212341989-56503589-b7f4-44dd-94c6-80874f6bf93c.gif"><img src="https://user-images.githubusercontent.com/90876213/212341989-56503589-b7f4-44dd-94c6-80874f6bf93c.gif" alt="cabeçalho" style="max-width: 100%;"></a></p>
 <h1>🎯 SOBRE</h1>
-<p>Esse projeto é um comércio online de bicicletas elétricas, durante o desenvolvimento foi utilizado diversas ferramentas e <strong>tecnicas de design</strong> para aperfeiçoar o resultado final! Desde <strong>Animações</strong>, <strong>Boas práticas</strong>, <strong>Performance</strong> e <strong>SEO</strong>. Projeto completamente desenvolvido por mim, desde a produção até o lançamento.
+<p>Esse projeto é um comércio online de bicicletas elétricas, durante o desenvolvimento foi utilizado diversas ferramentas e <strong>tecnicas de design</strong> para aperfeiçoar o resultado final! Desde <strong>Animações</strong>, <strong>Boas práticas</strong>, <strong>Performance</strong> e <strong>SEO</strong>. Projeto completamente desenvolvido por mim, desde a produção até o lançamento.</p>
+<h1>📱 RESPONSIVIDADE</h1>
+<p>O projeto como um todo, foi desenvolvido de forma <strong>Responsiva</strong> se adaptando ao tamanho da tela do usuário, sendo projeto da melhor maneira possível para melhor conforto e vizualização do usuário.
+<h1>🚀 Tecnologias</h1>
